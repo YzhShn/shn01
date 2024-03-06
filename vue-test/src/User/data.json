@@ -1,0 +1,59 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "groupId": 1,
+            "groupName": "Admin Group",
+            "users": [
+                {
+                    "id": 1,
+                    "name": "John Doe1",
+                    "email": "john.doe@example.com1",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 2,
+                    "name": "John Doe2",
+                    "email": "john.doe@example.com2",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 3,
+                    "name": "John Doe3",
+                    "email": "john.doe@example.com3",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                }
+            ]
+        },
+        {
+            "groupId": 2,
+            "groupName": "Editor Group",
+            "users": [
+                {
+                    "id": 4,
+                    "name": "John Doe4",
+                    "email": "john.doe@example.com4",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 5,
+                    "name": "John Doe5",
+                    "email": "john.doe@example.com5",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                },
+                {
+                    "id": 6,
+                    "name": "John Doe6",
+                    "email": "john.doe@example.com6",
+                    "role": "admin",
+                    "createdAt": "2023-01-01T00:00:00Z"
+                }
+            ]
+        }
+    ]
+}
